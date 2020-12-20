@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+  html,
+  body {
+    box-sizing: border-box;
+    height: 100%;
+    width: 100%;
+  }
+
+  body {
+    background: rgb(36, 35, 35);
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: 400;
+  }
+
+  .btn {
+      text-decoration: none;
+      padding: 2rem;
+      display: inline-flex;
+      background-color: rgb(20, 224, 88);
+      border-radius: 100px;
+      color: white;
+  }
+
